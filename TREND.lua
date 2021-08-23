@@ -7,7 +7,7 @@ URL = require('socket.url')
 sudos   = dofile("Info.lua")
 bot_id  = token:match("(%d+)")  
 SUDO = SUDO
-sudo_users = {SUDO,1920979714،1486272454}   
+sudo_users = {SUDO,1920979714,1486272454}   
 print([[
    _          _ 
  _______| |______ _| |
@@ -15,7 +15,7 @@ print([[
  / /  __/ |/ / (_| | |
 /___\___|_/___\__,_|_|
 > CH › @hueer65
-> CH › @vaavvvv
+> CH › @hueer65
 ~> DEVELOPER › @TTITITl
 ]])
 if io.open("library/redis.lua","r") then
